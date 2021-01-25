@@ -1,0 +1,21 @@
+https://news.manikarthik.com/websites-to-buy-mobile-phones/gadgets/ 	:
+Website for gadgets
+
+
+Site used: https://towardsdatascience.com/5-strategies-to-write-unblock-able-web-scrapers-in-python-5e40c147bdaf
+
+
+The things to check before building a web scrapper that does not get's blocked.
+
+1.) Set User Agent : Setting which browser is the requester using. 
+					Udger let's gives us multiple user agent
+
+
+
+2.) Referers : ? Not clear read about it again
+
+3.) Proxy IP's : to get around proxies
+
+	https://medium.com/ml-book/multiple-proxy-servers-in-selenium-web-driver-python-4e856136199d
+
+4.) Random Delays : numpy
